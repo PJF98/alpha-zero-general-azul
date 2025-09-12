@@ -5,8 +5,10 @@ CPU-only 25-100x speed improvement, and supporting 2+ players games. You can pla
 browser https://github.com/cestpasphoto/cestpasphoto.github.io. Technical details about the improvements are listed in
 this [page](README_features.md).
 
-October 2024: I (PJF98) have added Azul to this framework (for 2 players only currently). I have also trained a reasonably
-strong ai for the 2 player game. I want to say thanks to all those who worked on the previous repo's, particulary cestpasphoto,
+September 2025: I (PJF98) have added Azul, Kingdomino and Kamisado. Azul AI is quite strong, Kingdomino is quite weak and
+Kamisado is very strong (work in progress to properly add the randomised starting positions and retrain).
+
+I want to say thanks to all those who worked on the previous repo's, particulary cestpasphoto,
 I learnt a lot from his existing code.
 
 ## Supported games
